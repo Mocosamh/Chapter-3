@@ -1,7 +1,7 @@
 # Chapter-3: Computer Vision and Natural Language Processing<br>
 03_Tim 5_1<br>
     *Tujuan*: Menerapkan dan membandingkan metode peningkatan gambar (image enhancement) untuk mencerahkan foto dengan warna gelap, lalu menambahkannya ke *portfolio* peserta.<br>
-        **Deskripsi Tugas**:<br>
+        **Deskripsi Tugas**:<br> 
         - Meniru pendekatan teknologi kamera terbaru yang diterapkan oleh Apple (Deep Fusion dan Photonic Engine) dan Samsung (Adaptive Tetra-squared Pixel Sensor) dalam menangani gambar minim cahaya.<br>
         - Menerapkan operasi *Max Pooling* untuk meningkatkan kecerahan gambar dan membandingkan hasilnya dengan metode *Contrast Limited Adaptive Histogram Equation* (CLAHE), yang mampu mencerahkan gambar dengan lebih baik di kondisi cahaya rendah.<br>
         **Langkah-Langkah Tugas**:<br>
